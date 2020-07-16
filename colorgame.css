@@ -1,0 +1,101 @@
+h1{
+	color:white;
+	margin-bottom:40px;
+
+}
+
+.square{
+	width:30%;
+	
+	margin:1.66%;
+	background-color:white;
+	float:left;
+	padding-bottom:30%;
+	transition: background 0.6s;
+	border-radius: 15%;
+}
+
+#container{
+	
+	width:600px;
+	margin:0 auto;
+	
+}
+
+body{
+	background: black;
+	font-family: "Montserrat";
+}
+#header{
+
+	height:150px;
+	background:steelblue;
+	
+	text-align: center;
+}
+#header span{
+	display:block;
+}
+
+.one{
+	font-size:30px;
+	color:white;
+	font-weight:200;
+	letter-spacing: 4px;
+	font-weight:100;
+}
+.value{
+	font-size:50px;
+	font-color:white;
+	
+	font-weight:8
+}
+
+
+.three{
+	font-size:30px;
+	color:white;
+	font-weight:200;
+	letter-spacing: 4px;
+}
+.nav{
+	background: white;
+	height:30px;
+	margin-bottom: 40px;
+	
+	color:black;
+}
+
+.tryagain{
+	margin-left:35%;
+}
+.playagain{
+	margin-left: 15%;
+
+}
+
+#easy{
+	margin-left:15%;
+}
+
+.selected{
+	color:white;
+	background:steelblue;
+}
+
+button:hover{
+	color:white;
+	background:steelblue;
+}
+
+button{
+	border:none;
+	background: none;
+	font-weight:700;
+	letter-spacing: 1px;
+	height:100%;
+	text-transform: uppercase;
+	color:steelblue;
+	transition: all 0.7s
+	outline:none;
+	}
